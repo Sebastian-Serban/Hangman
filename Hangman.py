@@ -1,5 +1,6 @@
 from random import choice
 
+
 words = ['coder', 'decoder', 'recoder', 'recorder', 'encoder', 'python', 'palton', 'program', 'reprogram']
 
 word = choice(words)
